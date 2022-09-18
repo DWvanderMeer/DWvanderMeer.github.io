@@ -1,6 +1,6 @@
 title: "Dennis van der Meer"
 author: "Dennis van der Meer"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "MINES Paris - PSL University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "cv.html", title: "CV"}
+  - {url: "/industrial_cv.pdf", title: CV}
   - {file: "publications.md", title: "Publications"}
   - {file: "index.html"}
   - {file: "README.md"}
