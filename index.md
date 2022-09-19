@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I'm currently a postdoctoral researcher with the Centre for Processes, Renewable Energy Systems [PERSEE](https://www.persee.minesparis.psl.eu/Accueil/Presentation/) at MINES Paris, PSL University, in France. My research focuses on probabilistic forecasting of renewable energy generation, especially distributed solar power and wind power, in the frame of the European Horizon 2020 project [Smart4RES](https://www.smart4res.eu). However, I work on applications of probabilistic forecasting as well, most notably stochastic optimisation and optimal bidding.
+I'm currently a postdoctoral researcher with the Centre for Processes, Renewable Energy Systems [PERSEE](https://www.persee.minesparis.psl.eu/Accueil/Presentation/) at MINES Paris, PSL University, in France. My research focuses on probabilistic forecasting of renewable energy generation, especially distributed solar power and wind power, in the frame of the European Horizon 2020 project [Smart4RES](https://www.smart4res.eu). Besides that, I work on applications of probabilistic forecasting as well, most notably stochastic optimisation and optimal bidding.
 
 Furthermore, I contribute to [Task 16](https://iea-pvps.org/research-tasks/solar-resource-for-high-penetration-and-large-scale-applications/) of the International Energy Agency's Photovoltaic Power Systems Programme. Task 16 is an international collaboration to define best practises, enhance analysis of long-term inter-annual variability and improve probabilistic and variability forecasting.
 
