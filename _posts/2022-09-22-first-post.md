@@ -3,11 +3,11 @@ title: "My first post"
 layout: post
 ---
 
-As the title suggests, this is my first post! In this feed I'll post updates on projects I'm working on, write a short summary of papers that have been published or post my thoughts on topics that I know something about.
+As the title suggests, this is my first post! In this feed I'll post updates on projects I'm working on, write short summaries of papers that I've (co-)authored or share my thoughts on topics that I know something about.
 
-For instance, I'm currently improving my Python skills by starting from the absolute basics using (Codility)[https://app.codility.com/programmers/lessons/1-iterations/]. Even though I've used Python in much more advanced applications, some lessons are actually quite challenging. Whenever I've completed a lesson, I'll push the code to my (GitHub)[https://github.com/DWvanderMeer/codility].
+For instance, I'm currently improving my Python skills by starting from the absolute basics using [Codility](https://app.codility.com/programmers/lessons/1-iterations/). Even though I've used Python in much more advanced applications, some lessons are actually quite challenging. Whenever I've completed a lesson, I'll push the code to my [GitHub](https://github.com/DWvanderMeer/codility).
 
-You can find the code from today's lesson (here)[https://github.com/DWvanderMeer/codility/blob/main/L4_MaxCounters.py]:
+You can find the code from today's lesson [here](https://github.com/DWvanderMeer/codility/blob/main/L4_MaxCounters.py):
 
 {% highlight ruby %}
 def solution(N, A):
