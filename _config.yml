@@ -16,7 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "/industrial_cv.pdf", title: CV}
+  - {url: "/industrial_cv.pdf", title: Industrial CV}
+  - {url: "/academic_cv.pdf", title: Academic CV}
   - {file: "publications.md", title: "Publications"}
   - {file: "blog.md"}
   
