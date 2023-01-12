@@ -9,10 +9,10 @@ In this series of posts, I'll explore conformal prediction, a topic that's extre
 
 You can find the notebook in which I analyse the data on [GitHub](https://github.com/DWvanderMeer/ConformalPrediction/blob/main/analyze_GEFCom_data.ipynb) but I'll share two figures here to give you an idea. Like I said, we want to check for anomalous data and one example of such data are those data points that are further from a bin's median than a certain threshold. This is the so-called bin filter and you can see it in action below.
 
-![Scatter plot](/assets/bin_filter.png | width=100px)
+![Scatter plot](/assets/bin_filter.png)
 
 Removing anomalous data aims to improve the fitting of a power curve or machine learning models by increasing the signal to noise ratio. As a small extra step, I fitted some power curves to the cleaned data set, which you can see below.
 
-![Scatter plot](/assets/power_curve_fit.png | width=200px)
+![Scatter plot](/assets/power_curve_fit.png)
 
 The next step is to train a machine learning model to generate conditional mean predictions and generate conformal prediction intervals. Stay tuned!
